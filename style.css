@@ -202,7 +202,7 @@ span{
     border-radius: 5px;
     cursor: pointer;
     transition: all .40s;
-    height: 370px;
+    height: 400px;
 }
 .row1 i{
     color: var(--main-color);
